@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<OmniMouse>
+	<finalPassCameraIndex>0</finalPassCameraIndex>
+	<screenShapeIndex>0</screenShapeIndex>
+	<mouseType>CenteredCrossHair</mouseType>
+	<mouseStyle>AlwaysVisible</mouseStyle>
+	<crosshairStyle>AlwaysHidden</crosshairStyle>
+	<eulerOffset>(0.0, 0.0, 0.0)</eulerOffset>
+	<xSensitivity>1</xSensitivity>
+	<ySensitivity>1</ySensitivity>
+	<flipTiltCorrection>False</flipTiltCorrection>
+</OmniMouse>

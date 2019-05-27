@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CameraHelper>
+	<copyClearFlags>True</copyClearFlags>
+	<copyBackgroundColor>True</copyBackgroundColor>
+	<copyCullingMask>True</copyCullingMask>
+	<copyDepth>True</copyDepth>
+	<copyRenderingPath>True</copyRenderingPath>
+	<copyClippingPlanes>True</copyClippingPlanes>
+	<copyOcclusionCulling>True</copyOcclusionCulling>
+	<copyHDR>True</copyHDR>
+	<updateOn>Default</updateOn>
+	<premaskFinalPassCamera>True</premaskFinalPassCamera>
+	<fpcMode>ApplyToAnythingWithTheWord_Flat</fpcMode>
+</CameraHelper>

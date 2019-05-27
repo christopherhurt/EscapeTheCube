@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<OmnityInfo>
+	<KeepUpdatingFinalPassCameras>False</KeepUpdatingFinalPassCameras>
+	<KeepUpdatingScreen>False</KeepUpdatingScreen>
+	<KeepUpdatingShaders>True</KeepUpdatingShaders>
+	<KeepUpdatingCameraArray>True</KeepUpdatingCameraArray>
+	<enableTiltWithBracketKeys>True</enableTiltWithBracketKeys>
+	<isGlobe>False</isGlobe>
+	<tilt>0</tilt>
+	<yaw>0</yaw>
+	<windowInfo>
+		<GUIViewportPositionHint>(x:0, y:0, width:1, height:1)</GUIViewportPositionHint>
+		<GUIViewportScaleHint>1</GUIViewportScaleHint>
+		<fullscreenInfo>
+			<applyOnLoad>True</applyOnLoad>
+			<goalWindowPosAndRes>(x:0, y:0, width:1024, height:768)</goalWindowPosAndRes>
+			<goalRefreshRate>0</goalRefreshRate>
+			<fullScreenMode>WindowedWithBorder</fullScreenMode>
+		</fullscreenInfo>
+	</windowInfo>
+	<disableOmnity>False</disableOmnity>
+	<CameraArrayGUIExpanded>True</CameraArrayGUIExpanded>
+	<ScreenShapesGUIExpanded>True</ScreenShapesGUIExpanded>
+	<FinalPassCamerasGUIExpanded>False</FinalPassCamerasGUIExpanded>
+	<FinalPassCamera>
+		<name>Flat Camera</name>
+		<position>(0.0000, 0.0000, 0.0000)</position>
+		<localEulerAngles>(0.0000, 0.0000, 0.0000)</localEulerAngles>
+		<scale>1.0000</scale>
+		<normalizedLensOffset>True</normalizedLensOffset>
+		<lensOffsetY>-1.0000</lensOffsetY>
+		<lensScaleX>1.0000</lensScaleX>
+		<lensScaleY>1.0000</lensScaleY>
+		<GUIViewportScaleHint>1.0000</GUIViewportScaleHint>
+		<projectorType>Rectilinear</projectorType>
+		<fovL>45.0000</fovL>
+		<fovR>45.0000</fovR>
+		<fovT>45.0000</fovT>
+		<fovB>45.0000</fovB>
+		<near>0.0010</near>
+		<far>100.0002</far>
+		<nearOrtho>0.0010</nearOrtho>
+		<farOrtho>100.0000</farOrtho>
+		<matrixMode>HorizontalFOV</matrixMode>
+		<orthographicSize>0.5</orthographicSize>
+		<FlipHorizontal>False</FlipHorizontal>
+		<preRotation>(0.0000, 0.0000, 0.0000)</preRotation>
+		<startEnabled>True</startEnabled>
+		<normalizedViewportRect>(x:0, y:0, width:1, height:1)</normalizedViewportRect>
+		<backgroundColor>RGBA(0.0000, 0.0000, 0.0000, 1.0000)</backgroundColor>
+		<clearFlags>Skybox</clearFlags>
+		<cullingMask>3841</cullingMask>
+		<guiExpanded>True</guiExpanded>
+		<followTilt >False</followTilt >
+		<guiType>GUI0</guiType>
+		<RenderTextureSettings>
+			<enabled>False</enabled>
+			<stereoPair>False</stereoPair>
+			<width>2048</width>
+			<height>2048</height>
+			<mipmap>True</mipmap>
+			<antiAliasing>AASampleCount_1</antiAliasing>
+			<depth>24</depth>
+			<anisoLevel>2</anisoLevel>
+			<mipMapBias>0</mipMapBias>
+			<myRenderTextureFormat>Default</myRenderTextureFormat>
+			<wrapMode>Clamp</wrapMode>
+			<filterMode>Trilinear</filterMode>
+			<guiExpanded>True</guiExpanded>
+		</RenderTextureSettings>
+	</FinalPassCamera>
+	<pluginIDs>2000,100000,100010,3010</pluginIDs>
+</OmnityInfo>

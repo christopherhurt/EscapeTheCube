@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StereoOrthoPerspective>
+	<OmnitySDMManagerStereoOrthoPersective>
+		<Screen>
+			<Screen.rect>(x:-85.00, y:-30.00, width:170.00, height:68.00)</Screen.rect>
+		</Screen>
+		<Screen>
+			<Screen.rect>(x:95.00, y:-30.00, width:170.00, height:68.00)</Screen.rect>
+		</Screen>
+	</OmnitySDMManagerStereoOrthoPersective>
+</StereoOrthoPerspective>
